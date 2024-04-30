@@ -1,9 +1,3 @@
-<!-- 
-    M. Zulfan Sururi
-    22090169
-    4D
- -->
-
 
 
 <?php
